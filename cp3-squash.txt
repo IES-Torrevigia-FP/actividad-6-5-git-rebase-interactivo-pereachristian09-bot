@@ -1,0 +1,6 @@
+a44bf29 (HEAD -> main) Agrupa cambios de líneas extra en app
+9a2e513 Commit 1: versión inicial
+abd83ee (origin/main, origin/HEAD) add deadline
+bb807e3 Initial commit
+
+Agrupar los commits 
