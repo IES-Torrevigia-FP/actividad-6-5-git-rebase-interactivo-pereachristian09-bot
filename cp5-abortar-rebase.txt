@@ -1,0 +1,2 @@
+git rebase --abort sirve para cancelar un rebase. Lo utilizaria si
+apareciera algun conflicto con el rebase.
