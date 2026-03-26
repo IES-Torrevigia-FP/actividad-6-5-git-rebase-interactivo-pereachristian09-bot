@@ -1,0 +1,8 @@
+6543f5e (HEAD -> main) otro commit
+880c93e Añade línea extra 2 en app
+cd022f8 Añade línea extra 1 en app
+9a2e513 Commit 1: versión inicial
+abd83ee (origin/main, origin/HEAD) add deadline
+bb807e3 Initial commit
+
+reword permite editar el nombre de los commits sin modificiar los archivos.
