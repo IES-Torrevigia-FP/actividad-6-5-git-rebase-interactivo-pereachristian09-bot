@@ -1,0 +1,9 @@
+3d2a3bd (HEAD -> main) Beta
+440bff5 Alpha
+d0e9e05 linea4
+
+3d2a3bd (HEAD -> main) Beta
+d0e9e05 linea4
+440bff5 Alpha
+
+Reordenar commits sirve para organizar mejor los commits.
